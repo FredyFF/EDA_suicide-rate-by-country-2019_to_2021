@@ -3,5 +3,6 @@
 Exploratory Data Analysis (EDA) about Mc Donald Nutrition Menu
 
 I have explored the McDonald's dataset to find the answers for the following questions:
-1. Bagaimana gambaran dengan visualisasi data tingkat kriminalitas (bunus diri) setiap negara
-2. 
+1. How to visualize the crime rate (suicide) data for each country
+2. What is the shape of the data trend from year to year?
+3. Is there dominance between men and women?
